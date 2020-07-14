@@ -1,3 +1,3 @@
 # IBM Data Science Lab
 
-IBm coursera Data Science certification Lab and Materials
+IBM coursera Data Science certification Lab and Materials
